@@ -9,9 +9,9 @@ Desenvolvedor apaixonado por tecnologia, sempre aprendendo e buscando novos desa
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![JavaScript](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-lightyellow?style=flat-square&logo=javascript)
+![JavaScript](https://img.shields.io/badge/-PHP-darkblue?style=flat-square&logo=php)
+![Python](https://img.shields.io/badge/-Python-lightblue?style=flat-square&logo=Python)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 ## 📊 Estatísticas do GitHub
