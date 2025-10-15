@@ -59,13 +59,6 @@
 
 ---
 
-## 🏆 Certificados e Conquistas
-
-- 🥇 [Hackathon Unialfa](#) – 1º lugar  
-- 🥈 [Maratona de Matemática Básica Unialfa](#) – 2º lugar  
-
----
-
 ## 🌟 Projetos em Destaque
 
 <table>
